@@ -1,0 +1,36 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "nombre": "Sara",
+      "apellidos": "Londoño",
+      "username": "scaslon@gmail.com",
+      "password": "827ccb0eea8a706c4c34a16891f84e7b"
+    },
+    {
+      "id": 2,
+      "nombre": "Felipe",
+      "apellidos": "Llano",
+      "username": "fllano@gmail.com",
+      "password": "01cfcd4f6b8770febfb40cb906715822"
+    },
+    {
+      "id": 3,
+      "apellidos": "castillo",
+      "nombre": "majo",
+      "username": "mjcd@gmail.com",
+      "password": "81dc9bdb52d04dc20036dbd8313ed055"
+    }
+  ],
+  "RECETAS": [
+    {
+      "id": 1,
+      "Ingredientes": "1 huevo, harina, pan rallado, aceite de oliva, perejil fresco, filetes de pechuga de pollo, lonchas de jamón y lonchas de queso para fundir.  ",
+      "Tipo_receta": "Salada",
+      "Preparacion": "Lava el perejil, sécalo con papel absorbente y pícarlo muy finamente. Mézclalo con el pan rallado. Pinchar cada uno de los rollitos con dos palillos para que queden bien sujetos. Pasa los rollitos por pan rallado, huevo batido y de nuevo pan rallado. Fríelos por tandas en una sartén a fuego medio con abundante aceite y déjalos escurrir sobre papel absorbente para que suelten el exceso de aceite.",
+      "Tiempo": "2 horas",
+      "Video": "https://www.youtube.com/watch?reload=9&v=fVRzpIMQliw",
+      "Fecha": "Publicado el 09/05/2020"
+    }
+  ]
+}
